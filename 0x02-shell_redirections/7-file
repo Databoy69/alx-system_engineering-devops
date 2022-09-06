@@ -1,2 +1,15 @@
 #!/bin/bash
 echo "Best School" >> "\\*\\\\"Best School"\\\\\*\$\\?\\*\\*\\*\\*\\*:)"
+[master 8c2f5fa] echo 'echo 'a shell script that creates a file named exactly'
+ 2 files changed, 1 insertion(+), 2 deletions(-)
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   7-file
+	modified:   ../alx-system_engineering-devops (new commits)
+
+no changes added to commit (use "git add" and/or "git commit -a")
